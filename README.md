@@ -1,2 +1,3 @@
 # python_sandbox
-Files to learn Python basics
+
+Exercises from Python crash course
